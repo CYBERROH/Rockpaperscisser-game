@@ -1,5 +1,5 @@
 # Rockpaperscisser-game
-//rock paper scisser game.
+
 import java.util.Scanner;
 import java.util.Random; 
 public class Rockpaperscissor{
